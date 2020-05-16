@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="6" passed="6" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2020-05-16T17:10:27Z" name="Flipkart automate test suite" finished-at="2020-05-16T17:13:14Z" duration-ms="167402">
+    <groups>
+    </groups>
+    <test started-at="2020-05-16T17:10:27Z" name="Flipkart test case" finished-at="2020-05-16T17:13:14Z" duration-ms="167402">
+      <class name="com.qa.testcase.HomePageTest">
+        <test-method is-config="true" signature="setUp()[pri:0, instance:com.qa.testcase.HomePageTest@45dd4eda]" started-at="2020-05-16T22:41:06Z" name="setUp" finished-at="2020-05-16T22:41:19Z" duration-ms="12444" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="verifyHomePageTest()[pri:1, instance:com.qa.testcase.HomePageTest@45dd4eda]" started-at="2020-05-16T22:41:19Z" name="verifyHomePageTest" finished-at="2020-05-16T22:41:21Z" duration-ms="1996" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyHomePageTest -->
+        <test-method is-config="true" signature="closeBrowser()[pri:0, instance:com.qa.testcase.HomePageTest@45dd4eda]" started-at="2020-05-16T22:41:21Z" name="closeBrowser" finished-at="2020-05-16T22:41:26Z" duration-ms="5871" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closeBrowser -->
+        <test-method is-config="true" signature="setUp()[pri:0, instance:com.qa.testcase.HomePageTest@45dd4eda]" started-at="2020-05-16T22:41:45Z" name="setUp" finished-at="2020-05-16T22:41:57Z" duration-ms="12553" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="clickOnCartTest()[pri:2, instance:com.qa.testcase.HomePageTest@45dd4eda]" started-at="2020-05-16T22:41:57Z" name="clickOnCartTest" finished-at="2020-05-16T22:41:59Z" duration-ms="1671" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- clickOnCartTest -->
+        <test-method is-config="true" signature="closeBrowser()[pri:0, instance:com.qa.testcase.HomePageTest@45dd4eda]" started-at="2020-05-16T22:41:59Z" name="closeBrowser" finished-at="2020-05-16T22:42:07Z" duration-ms="8432" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closeBrowser -->
+        <test-method is-config="true" signature="setUp()[pri:0, instance:com.qa.testcase.HomePageTest@45dd4eda]" started-at="2020-05-16T22:42:47Z" name="setUp" finished-at="2020-05-16T22:42:58Z" duration-ms="11889" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="searchProduct()[pri:3, instance:com.qa.testcase.HomePageTest@45dd4eda]" started-at="2020-05-16T22:42:58Z" name="searchProduct" finished-at="2020-05-16T22:43:08Z" duration-ms="9750" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- searchProduct -->
+        <test-method is-config="true" signature="closeBrowser()[pri:0, instance:com.qa.testcase.HomePageTest@45dd4eda]" started-at="2020-05-16T22:43:08Z" name="closeBrowser" finished-at="2020-05-16T22:43:14Z" duration-ms="5832" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closeBrowser -->
+      </class> <!-- com.qa.testcase.HomePageTest -->
+      <class name="com.qa.testcase.LoginPageTest">
+        <test-method is-config="true" signature="setup()[pri:0, instance:com.qa.testcase.LoginPageTest@327b636c]" started-at="2020-05-16T22:40:27Z" name="setup" finished-at="2020-05-16T22:41:00Z" duration-ms="32897" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="GetLoginPageTitle()[pri:1, instance:com.qa.testcase.LoginPageTest@327b636c]" started-at="2020-05-16T22:41:00Z" name="GetLoginPageTitle" finished-at="2020-05-16T22:41:00Z" duration-ms="145" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- GetLoginPageTitle -->
+        <test-method is-config="true" signature="closeBrowser()[pri:0, instance:com.qa.testcase.LoginPageTest@327b636c]" started-at="2020-05-16T22:41:00Z" name="closeBrowser" finished-at="2020-05-16T22:41:06Z" duration-ms="6391" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closeBrowser -->
+        <test-method is-config="true" signature="setup()[pri:0, instance:com.qa.testcase.LoginPageTest@327b636c]" started-at="2020-05-16T22:41:26Z" name="setup" finished-at="2020-05-16T22:41:38Z" duration-ms="11163" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="loginTest()[pri:2, instance:com.qa.testcase.LoginPageTest@327b636c]" started-at="2020-05-16T22:41:38Z" name="loginTest" finished-at="2020-05-16T22:41:38Z" duration-ms="756" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- loginTest -->
+        <test-method is-config="true" signature="closeBrowser()[pri:0, instance:com.qa.testcase.LoginPageTest@327b636c]" started-at="2020-05-16T22:41:38Z" name="closeBrowser" finished-at="2020-05-16T22:41:45Z" duration-ms="6210" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closeBrowser -->
+      </class> <!-- com.qa.testcase.LoginPageTest -->
+      <class name="com.qa.testcase.AddToCarPageTest">
+        <test-method is-config="true" signature="setUp()[pri:0, instance:com.qa.testcase.AddToCarPageTest@60611244]" started-at="2020-05-16T22:42:07Z" name="setUp" finished-at="2020-05-16T22:42:30Z" duration-ms="23051" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="deleteAllCart()[pri:2, instance:com.qa.testcase.AddToCarPageTest@60611244]" started-at="2020-05-16T22:42:30Z" name="deleteAllCart" finished-at="2020-05-16T22:42:41Z" duration-ms="10445" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- deleteAllCart -->
+        <test-method is-config="true" signature="closeBrowser()[pri:0, instance:com.qa.testcase.AddToCarPageTest@60611244]" started-at="2020-05-16T22:42:41Z" name="closeBrowser" finished-at="2020-05-16T22:42:47Z" duration-ms="5868" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closeBrowser -->
+      </class> <!-- com.qa.testcase.AddToCarPageTest -->
+    </test> <!-- Flipkart test case -->
+  </suite> <!-- Flipkart automate test suite -->
+</testng-results>
