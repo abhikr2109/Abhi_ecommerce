@@ -35,6 +35,7 @@ public class AddToCarPageTest extends Testbase{
 		addTocart = homePage.moveToCart();
 		Thread.sleep(3000);
 		//abcef
+		//abcd
 		
 	}
 	
